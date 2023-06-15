@@ -110,3 +110,4 @@
 //     return console.log(result * 1);
 // }
 // deleteZero(450065)
+
